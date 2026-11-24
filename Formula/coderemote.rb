@@ -1,8 +1,8 @@
 class Coderemote < Formula
   desc "Use your computer from your iPhone: files, git and a terminal over a Dev Tunnel"
   homepage "https://coderemoteapp.github.io/web/"
-  url "https://registry.npmjs.org/coderemote/-/coderemote-0.3.15.tgz"
-  sha256 "97fd9c14813d3997cc9149eb8ab5881f054b433b6c0c1493b161c40b276b6189"
+  url "https://registry.npmjs.org/coderemote/-/coderemote-0.3.16.tgz"
+  sha256 "1aaeb2bf6e262416cc354222502a003d2c4aa5799b83e10d3dfa5bab319dc965"
   license "AGPL-3.0-or-later"
 
   depends_on "node"
